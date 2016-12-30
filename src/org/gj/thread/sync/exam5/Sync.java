@@ -15,5 +15,4 @@ public class Sync {
 			System.out.println(Thread.currentThread().getName() + " - Test end.");
 		}
 	}
-
 }
